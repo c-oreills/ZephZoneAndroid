@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "906006021890",
+    "firebase_url": "https://zephzone-7ee20.firebaseio.com",
+    "project_id": "zephzone-7ee20",
+    "storage_bucket": "zephzone-7ee20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906006021890:android:f24dedc10ce3dded",
+        "android_client_info": {
+          "package_name": "uk.co.oreills.zephzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906006021890-tnu8rn0slk1qs0fcikh0u3vh9i63hfds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhoGjUxRu3Hm8_G3T_j8CDwaeKzN0MLPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
